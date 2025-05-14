@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A1hMSrpC7Jn1TYIDfMA4" name="Página-5">
-    <mxGraphModel dx="857" dy="1486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1249" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,7 +402,7 @@
           <mxGeometry x="443" y="332" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XhLvZMKEE-OwJT3Zllkm-14" value="Gerar a receita das sementes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="443" y="463" width="118" height="60" as="geometry" />
+          <mxGeometry x="443" y="439" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XhLvZMKEE-OwJT3Zllkm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XhLvZMKEE-OwJT3Zllkm-13" target="XhLvZMKEE-OwJT3Zllkm-14">
           <mxGeometry relative="1" as="geometry">
@@ -417,52 +417,75 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0kyRKmPrbquL0oHq4W5F-1" value="Comprar as sementes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="443" y="594" width="118" height="60" as="geometry" />
+          <mxGeometry x="443" y="545" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpN9FyTl8JbQqb_weu-6-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="657" width="5" height="80" as="geometry" />
+          <mxGeometry x="499.5" y="747" width="5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="twwschzRSuPZWKxVRA7v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=12;" edge="1" parent="1" source="SpN9FyTl8JbQqb_weu-6-3" target="Lu6Q_1FCwqWpsCOZpE8T-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="502" y="1058" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SpN9FyTl8JbQqb_weu-6-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="842" width="5" height="80" as="geometry" />
+          <mxGeometry x="499.5" y="932" width="5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SpN9FyTl8JbQqb_weu-6-4" value="Comprar as sementes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="367" y="758" width="118" height="60" as="geometry" />
+        <mxCell id="SpN9FyTl8JbQqb_weu-6-4" value="Atualizar venda" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="367" y="848" width="118" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SpN9FyTl8JbQqb_weu-6-5" value="Comprar as sementes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="523" y="758" width="118" height="60" as="geometry" />
+        <mxCell id="SpN9FyTl8JbQqb_weu-6-5" value="Atualizar o estoque de semente" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="523" y="848" width="118" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SpN9FyTl8JbQqb_weu-6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.327;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;endSize=12;endArrow=open;endFill=0;" edge="1" parent="1" source="0kyRKmPrbquL0oHq4W5F-1" target="SpN9FyTl8JbQqb_weu-6-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SpN9FyTl8JbQqb_weu-6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endSize=12;endArrow=open;endFill=0;" edge="1" parent="1" source="twwschzRSuPZWKxVRA7v-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="502" y="783" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SpN9FyTl8JbQqb_weu-6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.287;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endSize=12;endArrow=open;endFill=0;" edge="1" parent="1" source="SpN9FyTl8JbQqb_weu-6-2" target="SpN9FyTl8JbQqb_weu-6-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513" y="722" as="sourcePoint" />
-            <mxPoint x="513" y="761" as="targetPoint" />
+            <mxPoint x="513" y="812" as="sourcePoint" />
+            <mxPoint x="513" y="851" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="519" y="719" />
-              <mxPoint x="582" y="719" />
+              <mxPoint x="519" y="809" />
+              <mxPoint x="582" y="809" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SpN9FyTl8JbQqb_weu-6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endSize=12;endArrow=open;endFill=0;" edge="1" parent="1" source="SpN9FyTl8JbQqb_weu-6-2" target="SpN9FyTl8JbQqb_weu-6-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="488" y="721" as="sourcePoint" />
-            <mxPoint x="488" y="760" as="targetPoint" />
+            <mxPoint x="488" y="811" as="sourcePoint" />
+            <mxPoint x="488" y="850" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="488" y="719" />
-              <mxPoint x="426" y="719" />
+              <mxPoint x="488" y="809" />
+              <mxPoint x="426" y="809" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SpN9FyTl8JbQqb_weu-6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=12;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.288;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SpN9FyTl8JbQqb_weu-6-4" target="SpN9FyTl8JbQqb_weu-6-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="498" y="775" as="sourcePoint" />
-            <mxPoint x="509" y="864" as="targetPoint" />
+            <mxPoint x="498" y="865" as="sourcePoint" />
+            <mxPoint x="509" y="954" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="426" y="845" />
-              <mxPoint x="491" y="845" />
+              <mxPoint x="426" y="935" />
+              <mxPoint x="491" y="935" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SpN9FyTl8JbQqb_weu-6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;endSize=12;endArrow=open;endFill=0;" edge="1" parent="1" source="SpN9FyTl8JbQqb_weu-6-5" target="SpN9FyTl8JbQqb_weu-6-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="582" y="935" />
+              <mxPoint x="513" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twwschzRSuPZWKxVRA7v-1" value="Receber as sementes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="443" y="650" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="twwschzRSuPZWKxVRA7v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endSize=12;endArrow=open;endFill=0;" edge="1" parent="1" source="0kyRKmPrbquL0oHq4W5F-1" target="twwschzRSuPZWKxVRA7v-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
