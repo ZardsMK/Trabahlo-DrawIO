@@ -491,7 +491,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BNXXlGwklPB_XWRka6H1" name="Página-6">
-    <mxGraphModel dx="773" dy="817" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -577,27 +577,27 @@
           <mxGeometry x="293" y="113" width="85" height="31" as="geometry" />
         </mxCell>
         <mxCell id="pq-nMFPlqEMvlXvJkFs1-20" value="ClsCompra" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="154" y="440" width="123" height="28" as="geometry" />
+          <mxGeometry x="199" y="435.25" width="123" height="28" as="geometry" />
         </mxCell>
         <mxCell id="pq-nMFPlqEMvlXvJkFs1-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="198.25" y="507" width="34.5" height="165" as="geometry" />
+          <mxGeometry x="243.25" y="502.25" width="34.5" height="165" as="geometry" />
         </mxCell>
         <mxCell id="pq-nMFPlqEMvlXvJkFs1-22" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pq-nMFPlqEMvlXvJkFs1-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="197.70592543658086" y="522.941162109375" as="targetPoint" />
+            <mxPoint x="239" y="523" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pq-nMFPlqEMvlXvJkFs1-23" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="21" y="401.5" width="20" height="299.5" as="geometry" />
         </mxCell>
         <mxCell id="pq-nMFPlqEMvlXvJkFs1-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="222" y="547" width="21" height="33" as="geometry" />
+          <mxGeometry x="267" y="542.25" width="21" height="33" as="geometry" />
         </mxCell>
         <mxCell id="pq-nMFPlqEMvlXvJkFs1-25" value="AtualizarParametro()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="pq-nMFPlqEMvlXvJkFs1-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="233" y="527" as="sourcePoint" />
+            <mxPoint x="278" y="522.25" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="263" y="557" />
+              <mxPoint x="308" y="552.25" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -611,18 +611,18 @@
         </mxCell>
         <mxCell id="pq-nMFPlqEMvlXvJkFs1-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="pq-nMFPlqEMvlXvJkFs1-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="216" y="702" as="sourcePoint" />
+            <mxPoint x="261" y="703" as="sourcePoint" />
             <mxPoint x="216" y="674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pq-nMFPlqEMvlXvJkFs1-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pq-nMFPlqEMvlXvJkFs1-21" target="pq-nMFPlqEMvlXvJkFs1-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="81" y="743" as="sourcePoint" />
-            <mxPoint x="131" y="693" as="targetPoint" />
+            <mxPoint x="126" y="738.25" as="sourcePoint" />
+            <mxPoint x="176" y="688.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pq-nMFPlqEMvlXvJkFs1-29" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Orcamento, Receita, Estoque&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Venda&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="21" y="479" width="175" height="50" as="geometry" />
+          <mxGeometry x="24" y="329" width="175" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
