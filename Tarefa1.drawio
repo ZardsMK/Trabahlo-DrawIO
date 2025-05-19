@@ -226,7 +226,7 @@
         <mxCell id="DEoLes8RBwkQ9olsvJO2-3" value="Qt_Pilula&lt;div&gt;Es_Semente&lt;/div&gt;&lt;div&gt;Qt_Semente&lt;/div&gt;&lt;div&gt;Qt_Convertida&lt;/div&gt;&lt;div&gt;Vl_Compra&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-2" vertex="1">
           <mxGeometry x="41" y="38" width="103" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="DEoLes8RBwkQ9olsvJO2-4" value="VerificarPilula&lt;div&gt;VerificarEstoque&lt;/div&gt;&lt;div&gt;PlantarSemente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-2" vertex="1">
+        <mxCell id="DEoLes8RBwkQ9olsvJO2-4" value="VerificarPilula&lt;div&gt;VerificarEstoque&lt;/div&gt;&lt;div&gt;PlantarSemente&lt;/div&gt;&lt;div&gt;AdicionarPipula&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-2" vertex="1">
           <mxGeometry x="41" y="171" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DEoLes8RBwkQ9olsvJO2-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="DEoLes8RBwkQ9olsvJO2-2" target="DEoLes8RBwkQ9olsvJO2-2" edge="1">
@@ -252,9 +252,6 @@
         </mxCell>
         <mxCell id="DEoLes8RBwkQ9olsvJO2-10" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="74" y="307" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DEoLes8RBwkQ9olsvJO2-11" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="74" y="248" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JVzX2igPEBinZtA5zqtR-1" value="ClsCompra" style="swimlane;whiteSpace=wrap;html=1;fillColor=default;swimlaneFillColor=default;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="329" y="462.5" width="200" height="261" as="geometry" />
