@@ -268,7 +268,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A1hMSrpC7Jn1TYIDfMA4" name="Página-5">
-    <mxGraphModel dx="654" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,8 +500,8 @@
             <mxPoint x="687" y="865" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8lAzooFjDvXiC99ZLoB-16" value="Plantar apenas&amp;nbsp;&lt;div&gt;o que deve&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="638" y="884" width="118" height="60" as="geometry" />
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-16" value="Plantar o valor&amp;nbsp;&lt;div&gt;de sementes&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="638" y="880" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H8lAzooFjDvXiC99ZLoB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=12;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="twwschzRSuPZWKxVRA7v-1" target="H8lAzooFjDvXiC99ZLoB-16">
           <mxGeometry relative="1" as="geometry">
