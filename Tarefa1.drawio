@@ -268,7 +268,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A1hMSrpC7Jn1TYIDfMA4" name="Página-5">
-    <mxGraphModel dx="723" dy="602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,7 +383,7 @@
           <mxGeometry x="451" y="596" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XhLvZMKEE-OwJT3Zllkm-14" value="Remover&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;o valor&amp;nbsp;&lt;/span&gt;&lt;div&gt;do quanto falta plantar&amp;nbsp;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="451" y="704" width="118" height="60" as="geometry" />
+          <mxGeometry x="451" y="689" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XhLvZMKEE-OwJT3Zllkm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XhLvZMKEE-OwJT3Zllkm-13" target="XhLvZMKEE-OwJT3Zllkm-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -397,25 +397,17 @@
             <mxPoint x="538" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0kyRKmPrbquL0oHq4W5F-1" value="Comprar as sementes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="451" y="912" width="118" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SpN9FyTl8JbQqb_weu-6-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="701" y="561" width="5" height="80" as="geometry" />
+        <mxCell id="0kyRKmPrbquL0oHq4W5F-1" value="Plantar apenas&amp;nbsp;&lt;div&gt;o que deve&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="451" y="864" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpN9FyTl8JbQqb_weu-6-4" value="Exibir informações" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="217" y="985" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpN9FyTl8JbQqb_weu-6-5" value="Atualizar o estoque de semente" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="678" y="944" width="118" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SpN9FyTl8JbQqb_weu-6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endSize=12;endArrow=open;endFill=0;" parent="1" source="twwschzRSuPZWKxVRA7v-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="673" y="924" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="451" y="966" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twwschzRSuPZWKxVRA7v-1" value="Receber as sementes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="633" y="727" width="118" height="60" as="geometry" />
+          <mxGeometry x="638" y="777" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twwschzRSuPZWKxVRA7v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=12;endArrow=open;endFill=0;" parent="1" source="SpN9FyTl8JbQqb_weu-6-4" target="Lu6Q_1FCwqWpsCOZpE8T-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -470,13 +462,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H8lAzooFjDvXiC99ZLoB-2" value="" style="rhombus;" vertex="1" parent="1">
-          <mxGeometry x="495" y="813" width="30" height="30" as="geometry" />
+          <mxGeometry x="495" y="792" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H8lAzooFjDvXiC99ZLoB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=12;endArrow=open;endFill=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XhLvZMKEE-OwJT3Zllkm-14" target="H8lAzooFjDvXiC99ZLoB-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="807" as="targetPoint" />
             <mxPoint x="539" y="864" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-9" value="Valor maior&amp;nbsp;&lt;div&gt;que se deve plantar&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="813" width="123" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=12;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="0kyRKmPrbquL0oHq4W5F-1" target="SpN9FyTl8JbQqb_weu-6-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="546" y="939" as="targetPoint" />
+            <mxPoint x="546" y="878" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-12" value="Zerar o valor&amp;nbsp;&lt;div&gt;que falta de&amp;nbsp;&lt;/div&gt;&lt;div&gt;semente&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="451" y="1071" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=12;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="SpN9FyTl8JbQqb_weu-6-5" target="H8lAzooFjDvXiC99ZLoB-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="506" y="963" as="targetPoint" />
+            <mxPoint x="506" y="925" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=12;endArrow=open;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H8lAzooFjDvXiC99ZLoB-12" target="Lu6Q_1FCwqWpsCOZpE8T-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699" y="1032" as="targetPoint" />
+            <mxPoint x="718" y="895" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=12;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H8lAzooFjDvXiC99ZLoB-2" target="twwschzRSuPZWKxVRA7v-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="717" y="802" as="targetPoint" />
+            <mxPoint x="687" y="865" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-16" value="Plantar apenas&amp;nbsp;&lt;div&gt;o que deve&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="638" y="884" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=12;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="twwschzRSuPZWKxVRA7v-1" target="H8lAzooFjDvXiC99ZLoB-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594" y="892" as="targetPoint" />
+            <mxPoint x="594" y="850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8lAzooFjDvXiC99ZLoB-18" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Valor menor&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); text-align: center; text-wrap-mode: nowrap;&quot;&gt;que&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); text-align: center; text-wrap-mode: nowrap; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;se deve plantar&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537.0041032718211" y="765.9987948069854" width="127" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
