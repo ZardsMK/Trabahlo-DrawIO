@@ -238,10 +238,10 @@
         <mxCell id="DEoLes8RBwkQ9olsvJO2-6" value="ClsHistorico" style="swimlane;whiteSpace=wrap;html=1;fillColor=default;swimlaneFillColor=default;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="24" y="332" width="200" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="DEoLes8RBwkQ9olsvJO2-7" value="&lt;div&gt;BancoR&lt;/div&gt;&lt;div&gt;BancoV&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-6" vertex="1">
+        <mxCell id="DEoLes8RBwkQ9olsvJO2-7" value="&lt;div&gt;baReceita&lt;/div&gt;&lt;div&gt;baVenda&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-6" vertex="1">
           <mxGeometry x="41" y="45" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DEoLes8RBwkQ9olsvJO2-8" value="AtualizarReceita&lt;div&gt;AtualizarVenda&lt;br&gt;&lt;div&gt;FazerRelatorio&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-6" vertex="1">
+        <mxCell id="DEoLes8RBwkQ9olsvJO2-8" value="AtualizarReceita&lt;div&gt;AtualizarVenda&lt;br&gt;&lt;div&gt;PegarRelatorios&lt;/div&gt;&lt;/div&gt;&lt;div&gt;PegarVendas&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-6" vertex="1">
           <mxGeometry x="41" y="138" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DEoLes8RBwkQ9olsvJO2-9" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="DEoLes8RBwkQ9olsvJO2-6" target="DEoLes8RBwkQ9olsvJO2-6" edge="1">
@@ -256,10 +256,10 @@
         <mxCell id="JVzX2igPEBinZtA5zqtR-1" value="ClsCompra" style="swimlane;whiteSpace=wrap;html=1;fillColor=default;swimlaneFillColor=default;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="329" y="462.5" width="200" height="261" as="geometry" />
         </mxCell>
-        <mxCell id="JVzX2igPEBinZtA5zqtR-2" value="Vl_Orcamento&lt;div&gt;Vl_Receita&lt;/div&gt;&lt;div&gt;Vl_Estoque&lt;/div&gt;&lt;div&gt;Vl_Venda&lt;br&gt;&lt;div&gt;Qt_Semente&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVzX2igPEBinZtA5zqtR-1" vertex="1">
+        <mxCell id="JVzX2igPEBinZtA5zqtR-2" value="reValor" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVzX2igPEBinZtA5zqtR-1" vertex="1">
           <mxGeometry x="33" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JVzX2igPEBinZtA5zqtR-3" value="GerarOrcamento&lt;div&gt;GerarReceita&lt;/div&gt;&lt;div&gt;ComprarSemente&lt;/div&gt;&lt;div&gt;PegarSemente&lt;/div&gt;&lt;div&gt;AtualizarVenda&lt;/div&gt;&lt;div&gt;AtualizarEstoque&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVzX2igPEBinZtA5zqtR-1" vertex="1">
+        <mxCell id="JVzX2igPEBinZtA5zqtR-3" value="&lt;div&gt;GerarReceita&lt;/div&gt;&lt;div&gt;ComprarSemente&lt;/div&gt;&lt;div&gt;PegarSemente&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JVzX2igPEBinZtA5zqtR-1" vertex="1">
           <mxGeometry x="33" y="178" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JVzX2igPEBinZtA5zqtR-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JVzX2igPEBinZtA5zqtR-1" target="JVzX2igPEBinZtA5zqtR-1" edge="1">
