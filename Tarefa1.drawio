@@ -198,14 +198,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qJo8da9bkcyN31Cxe3ui" name="Classes">
-    <mxGraphModel dx="624" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="597" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_iuAD-EWLbOBUhYmb3FZ-1" value="ClsParametro" style="swimlane;whiteSpace=wrap;html=1;fillColor=default;swimlaneFillColor=default;startSize=23;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="334" y="185" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_iuAD-EWLbOBUhYmb3FZ-2" value="AtualizarParametro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="_iuAD-EWLbOBUhYmb3FZ-1" vertex="1">
+        <mxCell id="_iuAD-EWLbOBUhYmb3FZ-2" value="AtualizarParametro&lt;div&gt;PegarParametro&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="_iuAD-EWLbOBUhYmb3FZ-1" vertex="1">
           <mxGeometry x="41" y="121" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_iuAD-EWLbOBUhYmb3FZ-3" value="Pr_Semente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="_iuAD-EWLbOBUhYmb3FZ-1" vertex="1">
@@ -223,10 +223,10 @@
         <mxCell id="DEoLes8RBwkQ9olsvJO2-2" value="ClsSemente" style="swimlane;whiteSpace=wrap;html=1;fillColor=default;swimlaneFillColor=default;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="24" y="13" width="200" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="DEoLes8RBwkQ9olsvJO2-3" value="Qt_Pilula&lt;div&gt;Es_Semente&lt;/div&gt;&lt;div&gt;Qt_Semente&lt;/div&gt;&lt;div&gt;Qt_Convertida&lt;/div&gt;&lt;div&gt;Vl_Compra&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-2" vertex="1">
+        <mxCell id="DEoLes8RBwkQ9olsvJO2-3" value="Sb_Convertida&lt;div&gt;Es_Semente&lt;/div&gt;&lt;div&gt;Qt_Convertida&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-2" vertex="1">
           <mxGeometry x="41" y="38" width="103" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="DEoLes8RBwkQ9olsvJO2-4" value="VerificarPilula&lt;div&gt;VerificarEstoque&lt;/div&gt;&lt;div&gt;PlantarSemente&lt;/div&gt;&lt;div&gt;AdicionarPipula&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-2" vertex="1">
+        <mxCell id="DEoLes8RBwkQ9olsvJO2-4" value="PegarStatus&lt;br&gt;&lt;div&gt;PlantarSemente&lt;/div&gt;&lt;div&gt;AdicionarPilula&lt;/div&gt;&lt;div&gt;AdicionarSemente&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="DEoLes8RBwkQ9olsvJO2-2" vertex="1">
           <mxGeometry x="41" y="171" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DEoLes8RBwkQ9olsvJO2-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="DEoLes8RBwkQ9olsvJO2-2" target="DEoLes8RBwkQ9olsvJO2-2" edge="1">
