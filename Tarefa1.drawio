@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6" pages="10">
-  <diagram name="1.0" id="2TtjPqE4uEPVsCzMLQ6q">
-    <mxGraphModel dx="474" dy="673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" background="none" math="0" shadow="0">
+  <diagram name="Uso1.0" id="2TtjPqE4uEPVsCzMLQ6q">
+    <mxGraphModel dx="755" dy="673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" background="none" math="0" shadow="0">
       <root>
         <mxCell id="-6nPCFE8H4hs2gL_SXbs-0" />
         <mxCell id="-6nPCFE8H4hs2gL_SXbs-1" parent="-6nPCFE8H4hs2gL_SXbs-0" />
@@ -25,8 +25,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="2.0" id="QgrQLj6DDw5yAUaX-xCv">
-    <mxGraphModel dx="733" dy="1040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+  <diagram name="Uso2.0" id="QgrQLj6DDw5yAUaX-xCv">
+    <mxGraphModel dx="1167" dy="1040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,8 +120,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="3.0" id="4VZvO680dzLRy78BL2N3">
-    <mxGraphModel dx="576" dy="817" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="none" math="0" shadow="0">
+  <diagram name="Uso3.0" id="4VZvO680dzLRy78BL2N3">
+    <mxGraphModel dx="917" dy="817" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="tuVpOWdhm5HM_4t9n1tt-0" />
         <mxCell id="tuVpOWdhm5HM_4t9n1tt-1" parent="tuVpOWdhm5HM_4t9n1tt-0" />
@@ -788,7 +788,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="BNXXlGwklPB_XWRka6H1" name="sequencia1">
+  <diagram id="BNXXlGwklPB_XWRka6H1" name="Sequencia1">
     <mxGraphModel dx="1427" dy="1271" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -868,7 +868,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="8LjiiwrdjOynmZMPlhRx" name="sequencia2">
+  <diagram id="8LjiiwrdjOynmZMPlhRx" name="Sequencia2">
     <mxGraphModel dx="676" dy="602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1015,7 +1015,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Yib6oPYhaRjI51Ynf3ac" name="sequencia3">
+  <diagram id="Yib6oPYhaRjI51Ynf3ac" name="Sequencia3">
     <mxGraphModel dx="988" dy="880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
